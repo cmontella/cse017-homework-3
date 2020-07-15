@@ -49,7 +49,7 @@ public void toString();
 
 Here are the methods you must implement for Node. You may add any additional methods you deem necessary (for instance, maybe you might find some getters and setters necessary, or some helper functions to assist with a recursive implementation).
 
-```Java
+```Java.java
 private int item;
 Node next;
 
