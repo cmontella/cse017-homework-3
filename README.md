@@ -17,9 +17,6 @@ private int elements.
 // Constructor creates an empty list
 public List();
 
-// Create node containing item, return reference of it.
-public Node* createNode(void* item);
-
 // Insert new item at the end of list.
 public void insertAtTail(item);
 
