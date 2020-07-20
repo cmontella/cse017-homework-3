@@ -15,7 +15,7 @@ private Node tail;
 private int elements.
 
 // Constructor creates an empty list
-public List();
+public LinkedList();
 
 // Insert new item at the end of list.
 public void insertAtTail(item);
