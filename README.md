@@ -32,14 +32,14 @@ public Node removeTail();
 // Remove item from start of list and return a it
 public Node removeHead();
 
-// Insert item at a specified index and return it
+// Remove item at a specified index and return it
 public Node removeAtIndex(int index);
 
 // Return item at index
 public int itemAtIndex(int index);
 
 // Print the list to the console
-public void toString();
+public void print();
 ```
 
 ## Node
